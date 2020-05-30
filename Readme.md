@@ -41,7 +41,7 @@ self.cleverbot = ac.Cleverbot("Your TravitiaAPI Key")
 
 4. Go to a discord server with the bot in and type `.cb [Your Message]` and enjoy chatting ☺️
 
-5. If you want to change the bot prefix go to bot.py and on line 29 you can change it and if you want to change the command or the command alias go to cogs/cleverbot.py and on line 14 you can change it to whatever you like 
+5. If you would like to to change the bot prefix you need edit the bot.py and on line 29 where it says `prefixes = ['.']` you can change it to whatever you like, if you would like to change the command or the command alias edit the file in cogs/cleverbot.py on line 14 where it says `@commands.command(name="cleverbot", aliases=["cb"])` you can change it to whatever you like 
 
 🎉 You're ready! 🎉
 
