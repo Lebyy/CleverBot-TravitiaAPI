@@ -1,5 +1,6 @@
 # A CleverBot made with the TravitiaApi which is coded in python.
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+Feel free to add a star⭐ to the repository to promote the project!
 
 > ## Bot Setup
 
@@ -38,7 +39,11 @@ self.cleverbot = ac.Cleverbot("Your TravitiaAPI Key")
 ```
 3. Run `python bot.py` to start your bot
 
-🎉 You're ready 🎉
+4. Go to a discord server with the bot in and type `.cb [Your Message]` and enjoy chatting ☺️
+
+5. If you want to change the bot prefix go to bot.py and on line 29 you can change it and if you want to change the command or the command alias go to cogs/cleverbot.py and on line 14 you can change it to whatever you like 
+
+🎉 You're ready! 🎉
 
 Visit Travitia Api Github repo for more information [Travitia API Github repo](https://github.com/crrapi/async-cleverbot)
 
