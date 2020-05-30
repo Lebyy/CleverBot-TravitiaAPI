@@ -1,6 +1,7 @@
 # A CleverBot made with the TravitiaApi which is coded in python.
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
-Feel free to add a star⭐ to the repository to promote the project!
+
+ ## Feel free to add a star⭐ to the repository to promote the project!
 
 > ## Bot Setup
 
