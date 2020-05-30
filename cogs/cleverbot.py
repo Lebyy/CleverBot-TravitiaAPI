@@ -11,7 +11,7 @@ class CleverbotCog(commands.Cog):
         self.cleverbot = ac.Cleverbot("Your TravitiaAPI Key")
         self.cleverbot.set_context(ac.DictContext(self.cleverbot))
 
-    @commands.command(name="botarc", aliases=["ba"])
+    @commands.command(name="cleverbot", aliases=["cb"])
     @commands.cooldown(1, 5, commands.BucketType.user)
     async def cleverbot_(self, ctx, *, query: str):
         """Ask Cleverbot a question!"""
